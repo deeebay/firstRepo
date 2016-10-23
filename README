@@ -2,6 +2,10 @@ Here is my first repo on GitHub
 
 My changes are here!!!
 I did some changes to Dima's file
+<<<<<<< HEAD
 
 
 
+=======
+more changes to Dima’s file
+>>>>>>> 7ba2f0fa634e3f5b2fc875f2b85d77e6dec59442
